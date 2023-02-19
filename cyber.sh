@@ -86,7 +86,7 @@ AZUL='\e[34m' && MAGENTA='\e[35m' && MAG='\033[1;36m' &&NEGRITO='\e[1m' && SEMCO
 
  msg -bar2 
 
- echo -e " \e[97m\033[1;41m   =====>>►►  SCRIPT  VPS DARK  ◄◄<<=====      \033[1;37m\033[0m" 
+ echo -e " \e[97m\033[1;41m   =====>>►►  SCRIPT  VPS CYBER-PERU ◄◄<<=====      \033[1;37m\033[0m" 
 
  msg -bar2 
 
@@ -1043,9 +1043,9 @@ touch /etc/VPS-MX/tmp/style
 
  invalid_key 
 
- rm -rf VPSDARK ista-arq 
+ rm -rf CYBER-PERU ista-arq 
 
  fi 
 
- rm -rf VPSDARK lista-arq
+ rm -rf CYBER-PERU lista-arq
 
